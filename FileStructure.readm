@@ -1,0 +1,11 @@
+CornerGrocerProject/
+├── main.cpp
+├── itemTracker.cpp
+├── itemTracker.h
+├── items.txt
+├── frequency.dat
+├── screenshots/
+│   ├── menu.png
+│   ├── histogram.png
+│   └── fileIO.png
+└── README.md
